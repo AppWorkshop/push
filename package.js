@@ -1,7 +1,7 @@
 Package.describe({
-  name: 'raix:push',
-  version: '3.0.3-rc.7',
-  summary: 'Isomorphic Push notifications for APN and GCM',
+  name: 'appworkshop:push',
+  version: '3.0.3-rc.8',
+  summary: 'Temporary stopgap - use raix:push instead.',
   git: 'https://github.com/raix/push.git'
 });
 
